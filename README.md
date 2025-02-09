@@ -29,9 +29,14 @@ Data Collection & Preparation:
   *  The dataset includes sales transactions with details on product pricing, discounts, and costs.									
   *  Data is cleaned and transformed using Power Query for consistency.
 
+
+file:///C:/Users/TYMA/AppData/Local/Temp/Power%20BI%20Desktop/print-job-1b6f6fc0-92a2-414e-a994-0a362648902d/project.pdf
+
+
+
  ## Report
  
- Power BI dashboards present KPIs through charts, tables, and slicers for interactive filtering.								
+ Power BI dashboards through charts, tables, and slicers for interactive filtering.								
  Insights are derived by analyzing trends and segment performance.								
 
 
