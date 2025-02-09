@@ -24,7 +24,7 @@ This analysis covers:
 ## Methodology	
 Data Collection & Preparation:
 
-  *  The dataset wasnimported from kaggle.									
+  *  The dataset was downloaded from kaggle.									
   *  The dataset includes sales transactions with details on product pricing, discounts, and costs.									
   *  Data is cleaned and transformed using Power Query for consistency.									
 
