@@ -19,7 +19,16 @@ This analysis covers:
   *  Sales data segmented by country, product, and discount band.								
   *  Time-based trends at the month and year levels.								
   *  Key financial metrics, including gross sales, COGS, and profit.								
-  *  A visualization-based approach using Power BI for interactive exploration.								
+  *  A visualization-based approach using Power BI for interactive exploration.
+
+## Methodology	
+Data Collection & Preparation:
+
+  *  The dataset wasnimported from kaggle.									
+  *  The dataset includes sales transactions with details on product pricing, discounts, and costs.									
+  *  Data is cleaned and transformed using Power Query for consistency.									
+
+
  
 
 
