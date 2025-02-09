@@ -6,6 +6,8 @@
   *  The dataset contains key financial metrics such as,
   *  gross sales, discounts, cost of goods sold (COGS), and profit, helping stakeholders make data-driven decisions.
 
+  ***  
+
 ## Objective
 The main objective of this analysis is to:								
 								
@@ -36,7 +38,7 @@ Data Collection & Preparation:
 
 
 
- ## Report
+ ## Result
  
  Power BI dashboards through charts, tables, and slicers for interactive filtering.								
  Insights are derived by analyzing trends and segment performance.								
