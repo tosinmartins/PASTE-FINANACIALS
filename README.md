@@ -14,6 +14,13 @@ The main objective of this analysis is to:
   *  Support strategic decision-making for pricing, discount strategies, and sales optimization
 
   ## Scope
+This analysis covers:								
+								
+  *  Sales data segmented by country, product, and discount band.								
+  *  Time-based trends at the month and year levels.								
+  *  Key financial metrics, including gross sales, COGS, and profit.								
+  *  A visualization-based approach using Power BI for interactive exploration.								
+ 
 
 
 
