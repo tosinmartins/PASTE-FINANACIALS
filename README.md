@@ -1,5 +1,6 @@
 ## PASTE-FINANACIALS
 ## Overview
+
   *  This Power BI dashboard analyzes sales performance data across various dimensions
   *  including segment, country, product, discount bands, and time period.
   *  The dataset contains key financial metrics such as,
@@ -26,7 +27,13 @@ Data Collection & Preparation:
 
   *  The dataset was downloaded from kaggle.									
   *  The dataset includes sales transactions with details on product pricing, discounts, and costs.									
-  *  Data is cleaned and transformed using Power Query for consistency.									
+  *  Data is cleaned and transformed using Power Query for consistency.
+
+ ## Report
+ 
+ Power BI dashboards present KPIs through charts, tables, and slicers for interactive filtering.								
+ Insights are derived by analyzing trends and segment performance.								
+
 
 
  
