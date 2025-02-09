@@ -6,7 +6,10 @@
   *  The dataset contains key financial metrics such as,
   *  gross sales, discounts, cost of goods sold (COGS), and profit, helping stakeholders make data-driven decisions.
 
+
+
   ***  
+  
 
 ## Objective
 The main objective of this analysis is to:								
@@ -16,6 +19,9 @@ The main objective of this analysis is to:
   *  Identify  total sales, profit, total discount, cost of goods sold, gross sales and total unit sold.								
   *  Support strategic decision-making for pricing, discount strategies, and sales optimization
 
+
+***
+
   ## Scope
 This analysis covers:								
 								
@@ -23,6 +29,9 @@ This analysis covers:
   *  Time-based trends at the month and year levels.								
   *  Key financial metrics, including gross sales, COGS, and profit.								
   *  A visualization-based approach using Power BI for interactive exploration.
+
+
+***
 
 ## Methodology	
 Data Collection & Preparation:
@@ -33,9 +42,15 @@ Data Collection & Preparation:
 
 
 
+***
+
 ![image](https://github.com/user-attachments/assets/8fcd83ed-26cc-40fb-ae09-f3d1f20c7da1)
 
 
+
+
+
+***
 
 
  ## Result
