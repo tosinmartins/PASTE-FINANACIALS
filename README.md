@@ -29,6 +29,8 @@ Data Collection & Preparation:
   *  The dataset includes sales transactions with details on product pricing, discounts, and costs.									
   *  Data is cleaned and transformed using Power Query for consistency.
 
+
+
 ![image](https://github.com/user-attachments/assets/8fcd83ed-26cc-40fb-ae09-f3d1f20c7da1)
 
 
