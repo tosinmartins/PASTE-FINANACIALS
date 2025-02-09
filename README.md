@@ -11,7 +11,9 @@ The main objective of this analysis is to:
   *  Provide insights into sales trends across different regions and product categories.								
   *  Evaluate the impact of discount bands on revenue and profitability.								
   *  Identify  total sales, profit, total discount, cost of goods sold, gross sales and total unit sold.								
-  *  Support strategic decision-making for pricing, discount strategies, and sales optimization.								
+  *  Support strategic decision-making for pricing, discount strategies, and sales optimization
+
+  ## Scope
 
 
 
